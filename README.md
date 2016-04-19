@@ -7,9 +7,6 @@ This list was created with a view to connect more people to information. It's ai
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
 
-## Contributing
-Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (including TODOs).
-
 
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
